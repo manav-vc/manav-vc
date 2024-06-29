@@ -12,18 +12,76 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
+const Manav = {
+  skills: {
+    languages: [
+      "C#", "Visual Basic", "Java", "JavaScript", "Python", "SQL", "CSS", "HTML", "XML"
+    ],
+    frameworks: [
+      "Asp.net", "React Js", "Bootstrap", "Tailwind CSS"
+    ],
+    technologies: [
+      "Android Studio", "Git", "MySQL", "Oracle Database", "SSMS", "Microsoft Report Builder", "Linux"
+    ],
+    softSkills: [
+      "Adaptability", "Teamwork", "Leadership", "Time Management", "Problem Solving", "Collaboration"
+    ]
+  },
+  education: {
+    institution: "Centennial College",
+    program: "Software Eng. Technology – Artificial Intelligence",
+    location: "Toronto, ON",
+    duration: "09/2023 – 09/2026",
+    GPA: "4.35/4.5",
+    courses: [
+      "Data Structures & Algorithms", "Object-oriented Programming", "Databases", "Operating Systems", "Web Development"
+    ]
+  },
+  experience: [
+    {
+      title: "Software Developer Intern - IT Systems Assistant",
+      company: "Government Of Ontario – Ministry of Attorney General",
+      duration: "May 2024 – Sept. 2024",
+      location: "Toronto, ON",
+      responsibilities: [
+        "Developed and enhanced functionalities for a deputy judges application utilizing React JS, C#, and SQL, focusing on both backend logic and frontend aesthetics.",
+        "Implemented new features and improvements in a Visual Basic and ASP.NET web application to enhance user experience and application performance.",
+        "Prepared database reports using SQL, Microsoft Report Builder, and SQL Server Management Studio."
+      ]
+    }
+  ],
+  projects: [
+    {
+      name: "Planet Explorer App",
+      technologies: ["Java", "JDK", "XML", "Android Studio"],
+      description: [
+        "Developed an Android app using Java and XML to display planet information with a dynamic ListView.",
+        "Implemented a model class and custom adapters to manage and display data from ArrayLists efficiently.",
+        "Utilized Android Studio for development, testing, and debugging, creating an educational and user-friendly app."
+      ]
+    },
+    {
+      name: "Calculator Desktop App",
+      technologies: ["C#", "GUI", "OOPS"],
+      description: [
+        "Created a versatile calculator application in C# with GUI, offering both simple and scientific functionalities.",
+        "Utilized object-oriented programming for modular code structure and efficient maintenance.",
+        "Illustrated strong GUI design skills, ensuring user-friendly interaction and visual appeal."
+      ]
+    },
+    {
+      name: "Investment Calculator Web App",
+      technologies: ["JavaScript", "React Js", "HTML", "CSS"],
+      description: [
+        "Developed a dynamic investment calculator using JavaScript and React.js, integrating HTML and CSS.",
+        "Showcased various React.js concepts to create an interactive user interface with four adjustable parameters, enabling users to calculate potential returns on investments.",
+        "Demonstrated proficiency in web development, utilizing modern technologies to deliver a responsive and intuitive application for financial planning."
+      ]
+    }
+  ]
+};
+
+ 
 ```
 
 <a href="https://myoctocat.dev/@sw-yx/octocat">
