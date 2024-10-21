@@ -12,70 +12,118 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const Manav = {
+const ManavChaudharyResume = {
+  personalInfo: {
+    name: "MANAV CHAUDHARY",
+    email: "mchaud81@my.centennialcollege.ca",
+    phone: "(587) 969-2382",
+    linkedIn: "https://www.linkedin.com/in/manav-chaudhary-26348a260/",
+    gitHub: "https://github.com/manav4499",
+    portfolio: "https://manav4499.github.io/Manav-s-portfolio/"
+  },
+  summary: [
+    "A result-oriented Software Engineering Technology - Artificial Intelligence student, with a strong academic record and hands-on experience in software development.",
+    "Experienced in developing dynamic applications using React JS, C#, Java, PHP, and SQL.",
+    "Proven ability to enhance backend and frontend functionalities through an internship with the Government of Ontario.",
+    "Skilled in problem-solving, with a passion for continuous learning and innovation.",
+    "Foundational knowledge of search algorithms, machine learning concepts & AI ethics."
+  ],
   skills: {
     languages: [
-      "C#", "Visual Basic", "Java", "JavaScript", "Python", "SQL", "CSS", "HTML", "XML"
+      "C#", "Visual Basic", "Java", "JavaScript", "Python", "PHP", "SQL", "CSS", "HTML", "XML"
     ],
     frameworks: [
-      "Asp.net", "React Js", "Bootstrap", "Tailwind CSS"
+      "ASP.NET", "React JS", "Bootstrap", "Tailwind CSS", "Node JS", "Express JS", "jQuery", "Ajax"
     ],
     technologies: [
-      "Android Studio", "Git", "MySQL", "Oracle Database", "SSMS", "Microsoft Report Builder", "Linux"
+      "WordPress", "Azure DevOps", "Figma", "WinSCP", "Android Studio", "Git", "MySQL", "Oracle Database", "MongoDB", "SSMS", "Microsoft Report Builder", "Linux"
     ],
-    softSkills: [
+    workplaceSkills: [
       "Adaptability", "Teamwork", "Leadership", "Time Management", "Problem Solving", "Collaboration"
-    ]
-  },
-  education: {
-    institution: "Centennial College",
-    program: "Software Eng. Technology – Artificial Intelligence",
-    location: "Toronto, ON",
-    duration: "09/2023 – 09/2026",
-    GPA: "4.35/4.5",
-    courses: [
-      "Data Structures & Algorithms", "Object-oriented Programming", "Databases", "Operating Systems", "Web Development"
     ]
   },
   experience: [
     {
-      title: "Software Developer Intern - IT Systems Assistant",
-      company: "Government Of Ontario – Ministry of Attorney General",
+      title: "Software Developer",
+      company: "Government of Ontario - Ministry of Attorney General",
       duration: "May 2024 – Sept. 2024",
       location: "Toronto, ON",
       responsibilities: [
-        "Developed and enhanced functionalities for a deputy judges application utilizing React JS, C#, and SQL, focusing on both backend logic and frontend aesthetics.",
+        "Developed and enhanced functionalities for an application utilizing React JS, C#, and SQL, focusing on both backend logic and frontend aesthetics.",
+        "Created dynamic functionality: Leveraged PHP to create dynamic pages for a WordPress website, enhancing interactivity and user engagement.",
         "Implemented new features and improvements in a Visual Basic and ASP.NET web application to enhance user experience and application performance.",
         "Prepared database reports using SQL, Microsoft Report Builder, and SQL Server Management Studio."
       ]
+    },
+    {
+      title: "Bell Geek Fest Hackathon Participant (Developer)",
+      company: "Bell Canada",
+      duration: "Sept. 2023",
+      location: "Mississauga, ON",
+      responsibilities: [
+        "Selected through a competitive process to participate in Bell’s annual Bell Geek Fest, a 3-day hackathon competition for post-secondary students to collaborate on developing innovative software design solutions.",
+        "Collaborated to develop a project based on Authentication using passkeys and End-to-End encryption.",
+        "Received an award for being within the top 5 ranking teams."
+      ]
     }
   ],
+  education: {
+    institution: "Centennial College",
+    program: "Software Engineering Technology - Artificial Intelligence (Co-op) Advanced Diploma",
+    location: "Toronto, ON",
+    duration: "Sept. 2023 - Present",
+    GPA: "4.35/4.5",
+    focusAreas: [
+      "AI", "C#", "Java", "JavaScript", "OOP Principles", "Databases (SQL)", "Web Development", "MERN"
+    ]
+  },
   projects: [
+    {
+      name: "Investment Calculator Web App",
+      technologies: ["JavaScript", "React JS", "HTML", "CSS"],
+      description: [
+        "Developed a dynamic investment calculator using JavaScript and React.js, integrating HTML and CSS.",
+        "Showcased various React.js concepts to create an interactive user interface with four adjustable parameters, enabling users to calculate potential returns on investments.",
+        "Demonstrated proficiency in web development, utilizing modern technologies to deliver a responsive and intuitive application for financial planning."
+      ]
+    },
     {
       name: "Planet Explorer App",
       technologies: ["Java", "JDK", "XML", "Android Studio"],
       description: [
         "Developed an Android app using Java and XML to display planet information with a dynamic ListView.",
         "Implemented a model class and custom adapters to manage and display data from ArrayLists efficiently.",
-        "Utilized Android Studio for development, testing, and debugging, creating an educational and user-friendly app."
+        "Utilized Android Studio for development, testing, and debugging."
       ]
     },
     {
       name: "Calculator Desktop App",
       technologies: ["C#", "GUI", "OOPS"],
       description: [
-        "Created a versatile calculator application in C# with GUI, offering both simple and scientific functionalities.",
+        "Created a versatile calculator application in C# offering both simple and scientific functionalities.",
         "Utilized object-oriented programming for modular code structure and efficient maintenance.",
         "Illustrated strong GUI design skills, ensuring user-friendly interaction and visual appeal."
       ]
+    }
+  ],
+  coCurricularActivities: [
+    {
+      title: "Student Ambassador",
+      term: "Winter Term 2023",
+      institution: "Centennial College, Toronto, ON",
+      responsibilities: [
+        "Assisted in organizing and setting up event spaces, ensuring smooth operation for new student orientation.",
+        "Guided new students and their families, providing campus tours and answering questions about various college resources and programs to create a welcoming and supportive environment."
+      ]
     },
     {
-      name: "Investment Calculator Web App",
-      technologies: ["JavaScript", "React Js", "HTML", "CSS"],
-      description: [
-        "Developed a dynamic investment calculator using JavaScript and React.js, integrating HTML and CSS.",
-        "Showcased various React.js concepts to create an interactive user interface with four adjustable parameters, enabling users to calculate potential returns on investments.",
-        "Demonstrated proficiency in web development, utilizing modern technologies to deliver a responsive and intuitive application for financial planning."
+      title: "Attendee",
+      event: "Collision Conference 2024 – Toronto",
+      duration: "June 17-20, 2024",
+      responsibilities: [
+        "Participated in one of the largest tech conferences, engaging with industry leaders, startups, and innovators.",
+        "Attended various sessions and workshops on emerging technologies and industry trends.",
+        "Networked with professionals and peers, gaining insights into cutting-edge advancements and best practices in the tech industry."
       ]
     }
   ]
