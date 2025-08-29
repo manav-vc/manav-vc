@@ -3,8 +3,8 @@
 ###
 
 <div align="start">
-  <img src="https://github-readme-stats.vercel.app/api?username=manav4499&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="190" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manav4499&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="190" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=manav-vc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="190" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manav-vc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="190" alt="languages graph"/>
 </div>
 
 ###
@@ -19,8 +19,8 @@ const ManavChaudharyResume = {
     email: "mchaud81@my.centennialcollege.ca",
     phone: "(587) 969-2382",
     linkedIn: "https://www.linkedin.com/in/manav-chaudhary-26348a260/",
-    gitHub: "https://github.com/manav4499",
-    portfolio: "https://manav4499.github.io/Manav-s-portfolio/"
+    gitHub: "https://github.com/manav-vc",
+    portfolio: "https://manav-vc.github.io/Manav-s-portfolio/"
   },
   summary: [
     "A result-oriented Software Engineering Technology - Artificial Intelligence student, with a strong academic record and hands-on experience in software development.",
