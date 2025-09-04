@@ -15,122 +15,107 @@
 ```javascript
 const ManavChaudharyResume = {
   personalInfo: {
-    name: "MANAV CHAUDHARY",
+    name: "Manav Chaudhary",
+    title: "Full-Stack Developer | AI Enthusiast",
     email: "mchaud81@my.centennialcollege.ca",
     phone: "(587) 969-2382",
-    linkedIn: "https://www.linkedin.com/in/manav-chaudhary-26348a260/",
-    gitHub: "https://github.com/manav-vc",
-    portfolio: "https://manav-vc.github.io/Manav-s-portfolio/"
+    linkedIn: "https://www.linkedin.com/in/manavvc/",
+    gitHub: "https://github.com/manav-vc"
   },
   summary: [
-    "A result-oriented Software Engineering Technology - Artificial Intelligence student, with a strong academic record and hands-on experience in software development.",
-    "Experienced in developing dynamic applications using React JS, C#, Java, PHP, and SQL.",
-    "Proven ability to enhance backend and frontend functionalities through an internship with the Government of Ontario.",
-    "Skilled in problem-solving, with a passion for continuous learning and innovation.",
-    "Foundational knowledge of search algorithms, machine learning concepts & AI ethics."
+    "Full-stack developer and AI enthusiast with strong academic performance (GPA: 4.35/4.5) and hands-on experience in developing scalable applications.",
+    "Skilled in full-stack development (MERN, Angular, Spring Boot) and machine learning (TensorFlow, PyTorch, Scikit-learn).",
+    "Proven ability to design and implement features that improve usability, efficiency, and performance for government applications.",
+    "Experienced in Agile workflows, CI/CD pipelines, and collaborative software development environments."
   ],
   skills: {
     languages: [
-      "C#", "Visual Basic", "Java", "JavaScript", "Python", "PHP", "SQL", "CSS", "HTML", "XML"
+      "Java", "Python", "C#", "SQL", "PLSQL", "JavaScript", "TypeScript", "PHP", "Visual Basic", "HTML/CSS", "XML"
     ],
     frameworks: [
-      "ASP.NET", "React JS", "Bootstrap", "Tailwind CSS", "Node JS", "Express JS", "jQuery", "Ajax"
+      "Angular", "React", "Node.js", "Express.js", "Flask", "Spring Boot", "ASP.NET", "JUnit", "WordPress", "Bootstrap"
     ],
-    technologies: [
-      "WordPress", "Azure DevOps", "Figma", "WinSCP", "Android Studio", "Git", "MySQL", "Oracle Database", "MongoDB", "SSMS", "Microsoft Report Builder", "Linux"
+    developerTools: [
+      "Git", "Azure DevOps", "Figma", "Postman", "Maven", "BrowserStack", "Android Studio", "Linux"
     ],
-    workplaceSkills: [
-      "Adaptability", "Teamwork", "Leadership", "Time Management", "Problem Solving", "Collaboration"
+    databases: [
+      "MongoDB", "MySQL", "Oracle Database", "SSMS", "Microsoft Report Builder"
+    ],
+    mlLibraries: [
+      "pandas", "NumPy", "Matplotlib", "Scikit-learn", "TensorFlow", "PyTorch"
     ]
   },
   experience: [
     {
-      title: "Software Developer",
+      title: "Jr. Software Engineer Co-op",
+      company: "Government of Ontario - Ministry of Children, Community and Social Services",
+      duration: "Jan 2025 – May 2025",
+      location: "Toronto, ON",
+      responsibilities: [
+        "Developed the MSN feature using Angular and TypeScript for the MyBenefits portal, enabling 276K+ ODSP clients to request diabetic supplies online and reducing manual processing by 40%.",
+        "Engineered a document upload feature using Angular and REST APIs, enhancing module-wide file handling and increasing monthly uploads by 34%.",
+        "Released a new version of ods-component (private npm package) with a custom Angular paginator, enabling table navigation across 10+ modules.",
+        "Worked in Agile sprints via Azure DevOps, contributing to CI/CD delivery and team code reviews."
+      ]
+    },
+    {
+      title: "Software Developer Intern",
       company: "Government of Ontario - Ministry of Attorney General",
       duration: "May 2024 – Sept. 2024",
       location: "Toronto, ON",
       responsibilities: [
-        "Developed and enhanced functionalities for an application utilizing React JS, C#, and SQL, focusing on both backend logic and frontend aesthetics.",
-        "Created dynamic functionality: Leveraged PHP to create dynamic pages for a WordPress website, enhancing interactivity and user engagement.",
-        "Implemented new features and improvements in a Visual Basic and ASP.NET web application to enhance user experience and application performance.",
-        "Prepared database reports using SQL, Microsoft Report Builder, and SQL Server Management Studio."
+        "Built search/sort functionality and redesigned UI for Deputy Judges Database using React, C#, and SQL, benefiting 200+ internal users.",
+        "Enhanced the JPSS app with update/delete features and table calculations using Visual Basic, ASP.NET, and SQL, reducing data entry time by 28%.",
+        "Developed a map tab for the redesigned SCJ site using JavaScript and Google Maps API, displaying 50+ court locations with interactive pins and labels."
       ]
     },
     {
-      title: "Bell Geek Fest Hackathon Participant (Developer)",
-      company: "Bell Canada",
-      duration: "Sept. 2023",
-      location: "Mississauga, ON",
+      title: "Programming Tutor",
+      company: "Centennial College",
+      duration: "Sept. 2024 – Present",
+      location: "Toronto, ON",
       responsibilities: [
-        "Selected through a competitive process to participate in Bell’s annual Bell Geek Fest, a 3-day hackathon competition for post-secondary students to collaborate on developing innovative software design solutions.",
-        "Collaborated to develop a project based on Authentication using passkeys and End-to-End encryption.",
-        "Received an award for being within the top 5 ranking teams."
+        "Tutored students in C#, Java, Python, and MERN stack for labs and real-world scenarios.",
+        "Provided support in Linear Algebra, Statistics, and Calculus for technical problem-solving.",
+        "Introduced Agile methodologies to students for effective project workflows."
       ]
     }
   ],
   education: {
     institution: "Centennial College",
-    program: "Software Engineering Technology - Artificial Intelligence (Co-op) Advanced Diploma",
+    program: "Advanced Diploma in Software Engineering – AI",
     location: "Toronto, ON",
-    duration: "Sept. 2023 - Present",
+    duration: "Sept. 2023 – Present (Expected Graduation: Dec. 2026)",
     GPA: "4.35/4.5",
     focusAreas: [
-      "AI", "C#", "Java", "JavaScript", "OOP Principles", "Databases (SQL)", "Web Development", "MERN"
+      "Machine Learning", "Data Structures", "Algorithms", "OOP", "Full Stack Development", "Testing & QA"
     ]
   },
   projects: [
     {
-      name: "Investment Calculator Web App",
-      technologies: ["JavaScript", "React JS", "HTML", "CSS"],
+      name: "Live Aquaria",
+      technologies: ["React JS", "Three.js", "Node.js", "Express", "MongoDB", "Leaflet API", "Gemini API"],
+      duration: "Nov. 2024 – Dec. 2024",
       description: [
-        "Developed a dynamic investment calculator using JavaScript and React.js, integrating HTML and CSS.",
-        "Showcased various React.js concepts to create an interactive user interface with four adjustable parameters, enabling users to calculate potential returns on investments.",
-        "Demonstrated proficiency in web development, utilizing modern technologies to deliver a responsive and intuitive application for financial planning."
+        "Built an AI-powered web app to identify fish species in real-time using Google’s Gemini API.",
+        "Created an interactive 3D aquarium with React and Three.js to visualize user catches.",
+        "Integrated Leaflet API for global fishing map visualization.",
+        "Developed backend with Node.js, Express, and MongoDB Atlas for scalable data management."
       ]
     },
     {
-      name: "Planet Explorer App",
-      technologies: ["Java", "JDK", "XML", "Android Studio"],
+      name: "NLP - Email Spam Detector",
+      technologies: ["Python", "Scikit-learn", "NLP", "TF-IDF", "Naive Bayes"],
+      duration: "Oct. 2024 – Nov. 2024",
       description: [
-        "Developed an Android app using Java and XML to display planet information with a dynamic ListView.",
-        "Implemented a model class and custom adapters to manage and display data from ArrayLists efficiently.",
-        "Utilized Android Studio for development, testing, and debugging."
-      ]
-    },
-    {
-      name: "Calculator Desktop App",
-      technologies: ["C#", "GUI", "OOPS"],
-      description: [
-        "Created a versatile calculator application in C# offering both simple and scientific functionalities.",
-        "Utilized object-oriented programming for modular code structure and efficient maintenance.",
-        "Illustrated strong GUI design skills, ensuring user-friendly interaction and visual appeal."
-      ]
-    }
-  ],
-  coCurricularActivities: [
-    {
-      title: "Student Ambassador",
-      term: "Winter Term 2023",
-      institution: "Centennial College, Toronto, ON",
-      responsibilities: [
-        "Assisted in organizing and setting up event spaces, ensuring smooth operation for new student orientation.",
-        "Guided new students and their families, providing campus tours and answering questions about various college resources and programs to create a welcoming and supportive environment."
-      ]
-    },
-    {
-      title: "Attendee",
-      event: "Collision Conference 2024 – Toronto",
-      duration: "June 17-20, 2024",
-      responsibilities: [
-        "Participated in one of the largest tech conferences, engaging with industry leaders, startups, and innovators.",
-        "Attended various sessions and workshops on emerging technologies and industry trends.",
-        "Networked with professionals and peers, gaining insights into cutting-edge advancements and best practices in the tech industry."
+        "Built a binary classification model to detect spam messages using TF-IDF and Naive Bayes.",
+        "Preprocessed and vectorized 5,000+ samples with CountVectorizer.",
+        "Achieved 91% accuracy through hyperparameter tuning with cross-validation."
       ]
     }
   ]
 };
 
- 
 ```
 ###
 
