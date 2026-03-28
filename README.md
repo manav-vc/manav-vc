@@ -1,5 +1,8 @@
+
 <div align="center">
+ 
 # Hey, I'm Manav 👋
+
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-manavv.com-6E40C9?style=for-the-badge&logo=firefox&logoColor=white)](https://manavv.com)
