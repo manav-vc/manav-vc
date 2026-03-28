@@ -147,16 +147,9 @@ Currently working on new projects. Stay tuned! ⚡
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=manav-vc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manav-vc&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
+ 
 ![GitHub Streak](https://streak-stats.demolab.com?user=manav-vc&theme=tokyonight&hide_border=true)
-
+ 
 </div>
 
 ---
