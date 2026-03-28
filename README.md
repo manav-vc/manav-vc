@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Manav+Chaudhary+%F0%9F%91%8B;Software+Engineer+%7C+Cloud+%7C+ML" alt="Typing SVG" />
-
+# Hey, I'm Manav 👋
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-manavv.com-6E40C9?style=for-the-badge&logo=firefox&logoColor=white)](https://manavv.com)
