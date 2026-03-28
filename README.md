@@ -1,12 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Manav+Chaudhary+%F0%9F%91%8B;Software+Engineer;Full-Stack+%7C+Cloud+%7C+ML" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Manav+Chaudhary+%F0%9F%91%8B;Software+Engineer+%7C+Cloud+%7C+ML" alt="Typing SVG" />
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-manavv.com-6E40C9?style=for-the-badge&logo=firefox&logoColor=white)](https://manavv.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-manavvc-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manavvc)
-[![GitHub](https://img.shields.io/badge/GitHub-manav--vc-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manav-vc)
 [![Email](https://img.shields.io/badge/Email-mchaud81@centennialcollege.ca-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mchaud81@my.centennialcollege.ca)
 
 </div>
@@ -17,11 +16,9 @@
 
 Software Engineer with internship experience at **Interac Corp** and the **Government of Ontario**, building production systems that serve hundreds of thousands of users. I care about clean architecture, observable systems, and shipping things that actually work.
 
-- 🎓 Advanced Diploma in **Software Engineering – AI** @ Centennial College &nbsp;|&nbsp; GPA: **4.35 / 4.5**
+- 🎓 Associate's in **Software Engineering – AI** @ Centennial College &nbsp;|&nbsp; GPA: **4.35 / 4.5**
 - 🏦 Recently built cloud observability infrastructure at **Interac Corp** (AWS + Splunk + Terraform)
 - 🏛️ Shipped features used by **276K+ ODSP clients** @ Government of Ontario
-- 🤖 Into ML, distributed systems, and full-stack development
-- 📍 Toronto, ON
 
 ---
 
@@ -34,7 +31,6 @@ Software Engineer with internship experience at **Interac Corp** and the **Gover
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Frontend**
