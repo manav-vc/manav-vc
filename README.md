@@ -7,7 +7,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-manavv.com-6E40C9?style=for-the-badge&logo=firefox&logoColor=white)](https://manavv.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-manavvc-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manavvc)
-[![Email](https://img.shields.io/badge/Email-mchaud81@centennialcollege.ca-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mchaud81@my.centennialcollege.ca)
+[![Email](https://img.shields.io/badge/Email-manavchaudhary462@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manavchaudhary462@gmail.com)
 
 </div>
 
